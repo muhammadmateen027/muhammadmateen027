@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Flutter
 - 💬 Ask me about anything
-- 📫 How to reach me: ![Click here](https://mateen-resume.web.app)
 
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=muhammadmateen027&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px&branding=false"/>
