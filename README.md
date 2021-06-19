@@ -4,7 +4,7 @@
 - 💬 Ask me about anything
 
 
-<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=muhammadmateen027&badges=2&show-avatar=false&style=23000;--border-radius:10px&branding=false"/> -->
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=muhammadmateen027&badges=2&show-avatar=false&style=23000;--border-radius:10px&branding=false"/>
 
 
 <img
