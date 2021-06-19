@@ -5,7 +5,7 @@
 />
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=muhammadmateen027&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nolimits4web&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
 />
 
 <!--
