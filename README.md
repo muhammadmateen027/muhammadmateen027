@@ -4,6 +4,10 @@
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=muhammadmateen027&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=muhammadmateen027&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
 <!--
 **muhammadmateen027/muhammadmateen027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <script src="https://unpkg.com/@codersrank/summary/codersrank-summary.min.js"></script>
