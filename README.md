@@ -1,6 +1,7 @@
 ### Hi there 👋
-<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
-<codersrank-summary username="muhammadmateen027" show-header="false"></codersrank-summary>
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=muhammadmateen027&labels=true"
+/>
 
 <!--
 **muhammadmateen027/muhammadmateen027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
