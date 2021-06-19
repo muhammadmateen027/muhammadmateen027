@@ -1,4 +1,5 @@
 ### Hi there 👋
+<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
 <codersrank-summary username="muhammadmateen027" show-header="false"></codersrank-summary>
 
 <!--
