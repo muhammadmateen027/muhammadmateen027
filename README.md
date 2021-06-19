@@ -4,7 +4,7 @@
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=muhammadmateen027&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=muhammadmateen027&max-items=2&dates=false&style=--item-bg-color:%23f00;--item-border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=muhammadmateen027&labels=true"
 />
 
 <!--
