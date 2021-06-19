@@ -5,7 +5,7 @@
 />
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nolimits4web&skills=Dart,JSON,Java,JavaScript,Objective-C,Other&width=820"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nolimits4web&skills=JSON,Dart,Java,JavaScript,Objective-C,Other&width=820"
 />
 
 <!--
