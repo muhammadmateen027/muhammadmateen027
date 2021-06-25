@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### This ctivity is calculated at codersrank (shows private repository commits)
+#### This activity was calculated at codersrank (shows private repository's commits)
 <img width="845" alt="image" src="https://user-images.githubusercontent.com/24449076/123458248-6ad70380-d617-11eb-9df7-6c6576108a7f.png">
 
 - 🔭 I’m currently working on Flutter
