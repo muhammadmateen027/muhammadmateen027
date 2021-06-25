@@ -6,8 +6,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmateen027&layout=compact)](https://github.com/muhammadmateen027/github-readme-stats)
 [![Mateen's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadmateen027&show_icons=true)](https://github.com/muhammadmateen027/github-readme-stats)
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=muhammadmateen027&labels=true"
+/>
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=muhammadmateen027&badges=2&show-avatar=false&style=23000;--border-radius:10px&branding=false"/>
+<!-- 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=muhammadmateen027&badges=2&show-avatar=false&style=23000;--border-radius:10px&branding=false"/> -->
 
 
 <!-- <img
