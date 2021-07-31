@@ -4,11 +4,8 @@
 ![coverage][android]
 ![coverage][bloc_version]
 ![coverage][override_bloc_version]
-![coverage][database] ![coverage][hive]
 ![coverage][sentry_io]
 ![coverage][dio]
-![coverage][development] ![coverage][staging] ![coverage][production]
-[![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 
 #### This activity was calculated at [codersrank](https://profile.codersrank.io/user/muhammadmateen027/)(shows private repository's commits)
 <img width="845" alt="image" src="https://user-images.githubusercontent.com/24449076/123458248-6ad70380-d617-11eb-9df7-6c6576108a7f.png">
