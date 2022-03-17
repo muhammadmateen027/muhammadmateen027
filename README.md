@@ -42,13 +42,13 @@ Here are some ideas to get you started:
 
 [android]: https://img.shields.io/badge/Android-98eb34.svg
 
-[flutter_version]: https://img.shields.io/badge/flutter-2.2.3-1389FD.svg
+[flutter_version]: https://img.shields.io/badge/flutter-2.10.0-1389FD.svg
 
-[dart_version]: https://img.shields.io/badge/Dart-2.13.4-1389FD.svg
+[dart_version]: https://img.shields.io/badge/Dart-2.16.0-1389FD.svg
 
 [state_management]: https://img.shields.io/badge/State_Management-42b983.svg
 
-[bloc_version]: https://img.shields.io/badge/BLoC-7.0.0-42b983.svg
+[bloc_version]: https://img.shields.io/badge/BLoC-8.0.1-42b983.svg
 
 [override_bloc_version]: https://img.shields.io/badge/Override_BLoC-upcoming_version-42b983.svg
 
