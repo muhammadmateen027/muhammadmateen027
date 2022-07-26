@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 [android]: https://img.shields.io/badge/Android-98eb34.svg
 
-[flutter_version]: https://img.shields.io/badge/flutter-2.10.0-1389FD.svg
+[flutter_version]: https://img.shields.io/badge/flutter-3.1.0-1389FD.svg
 
-[dart_version]: https://img.shields.io/badge/Dart-2.16.0-1389FD.svg
+[dart_version]: https://img.shields.io/badge/Dart-2.18.0-1389FD.svg
 
 [state_management]: https://img.shields.io/badge/State_Management-42b983.svg
 
