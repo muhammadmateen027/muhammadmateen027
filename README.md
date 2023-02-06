@@ -1,4 +1,17 @@
 ## Hi there 👋
+<div id="header" align="center">  
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
+  
+  <a href="https://www.linkedin.com/in/muhammadmateen027" >
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=muhammadmateen027&style=for-the-badge&color=blue" alt=""/>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%99%8F+Greetings++I+am+Muhammad+Mateen+Flutter+Engineer.+;Welcome+to+My+Profile"/>    
+  
+</div>
+
 ![coverage][flutter_version]
 ![coverage][dart_version]
 ![coverage][android]
@@ -50,17 +63,17 @@ Here are some ideas to get you started:
 
 [android]: https://img.shields.io/badge/Android-98eb34.svg
 
-[flutter_version]: https://img.shields.io/badge/flutter-3.1.0-1389FD.svg
+[flutter_version]: https://img.shields.io/badge/flutter-3.7.0-1389FD.svg
 
-[dart_version]: https://img.shields.io/badge/Dart-2.18.0-1389FD.svg
+[dart_version]: https://img.shields.io/badge/Dart-2.19.0-1389FD.svg
 
 [state_management]: https://img.shields.io/badge/State_Management-42b983.svg
 
-[bloc_version]: https://img.shields.io/badge/BLoC-8.0.1-42b983.svg
+[bloc_version]: https://img.shields.io/badge/BLoC-8.1.1-42b983.svg
 
 [override_bloc_version]: https://img.shields.io/badge/Override_BLoC-upcoming_version-42b983.svg
 
-[sentry_io]: https://img.shields.io/badge/Sentry-5.1.0-362d59.svg
+[sentry_io]: https://img.shields.io/badge/Sentry-6.19.0-362d59.svg
 
 [database]: https://img.shields.io/badge/database-66ffff.svg
 
