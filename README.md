@@ -8,7 +8,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=muhammadmateen027&style=for-the-badge&color=blue" alt=""/>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%99%8F+Greetings++I+am+Muhammad+Mateen+Flutter+Engineer.+;Welcome+to+My+Profile"/>    
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=21AEF7&center=true&width=800&lines=Welcome+to+my+profile!;I+am+Muhammad+Mateen%2C+Flutter+engineer+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a> 
   
 </div>
 
