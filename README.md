@@ -12,14 +12,6 @@
   
 </div>
 
-![coverage][flutter_version]
-![coverage][dart_version]
-![coverage][android]
-![coverage][bloc_version]
-![coverage][override_bloc_version]
-![coverage][sentry_io]
-![coverage][dio]
-
 NEW! [View your contributions in 3D, VR and IRL!](https://skyline.github.com/muhammadmateen027/2022)
 
 <!---
@@ -60,40 +52,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[android]: https://img.shields.io/badge/Android-98eb34.svg
-
-[flutter_version]: https://img.shields.io/badge/flutter-3.7.0-1389FD.svg
-
-[dart_version]: https://img.shields.io/badge/Dart-2.19.0-1389FD.svg
-
-[state_management]: https://img.shields.io/badge/State_Management-42b983.svg
-
-[bloc_version]: https://img.shields.io/badge/BLoC-8.1.1-42b983.svg
-
-[override_bloc_version]: https://img.shields.io/badge/Override_BLoC-upcoming_version-42b983.svg
-
-[sentry_io]: https://img.shields.io/badge/Sentry-6.19.0-362d59.svg
-
-[database]: https://img.shields.io/badge/database-66ffff.svg
-
-[hive]: https://img.shields.io/badge/hive-2.0.4-66ffff.svg
-
-[dio]: https://img.shields.io/badge/dio-4.0.0-4334eb.svg
-
-[production]: https://img.shields.io/badge/Production-0bbf5c.svg
-
-[development]: https://img.shields.io/badge/Development-b6d91c.svg
-
-[staging]: https://img.shields.io/badge/Staging-edd013.svg
-
-[coverage_badge]: coverage_badge.svg
-
-[flutter_localizations_link]: https://api.flutter.dev/flutter/flutter_localizations/flutter_localizations-library.html
-
-[internationalization_link]: https://flutter.dev/docs/development/accessibility-and-localization/internationalization
-
-[very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
-
-[very_good_analysis_link]: https://pub.dev/packages/very_good_analysis
-
